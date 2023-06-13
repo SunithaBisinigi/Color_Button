@@ -1,0 +1,10 @@
+.box  {
+    border:solid 1px black;
+    width: 250px;
+    height:150px;
+    margin:auto; 
+}
+#blue {
+    margin-top:5px;
+    margin-left:549px;
+}
